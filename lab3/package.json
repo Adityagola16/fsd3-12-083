@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "fs module directly communicate with os . the common operations on a file or folder are \r 1. file -> rightFile ,readFile ,opend fxn\r 2. File metadat \r call fxn are promise so it must be called with awate keyword \r Append wrok -> appendFile() adds content to the end without deleting the existing content.\r writeFile->writeFile() creates/overwrites the file and delete all other file before run.\r => if a fxn uses using await keyword then the fxn must be async",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
