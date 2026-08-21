@@ -1,0 +1,1 @@
+function main (){console.log("main");setTimeout(f1,0);setTimeout()
