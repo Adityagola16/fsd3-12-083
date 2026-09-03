@@ -18,3 +18,21 @@ one o the most important module in node.js, originally designed for building sca
 3. build rest apis
 4. non-blocking I/O
 5. foundation of ecpress.js
+## http status codes
+
+- 200 -> Ok
+- 201 -> Created
+- 400 -> Bad Request
+- 401 -> Unautharized
+- 403 -> forbidden
+- 404 -> Not Found
+- 500 -> Internal Server Error
+srever can send to the client 
+1. html file 
+2. json fiel 
+3. plain file
+4. js file
+5. any file to dwonload 
+6. etc
+## Type of information -> res.writeHead ( ), res.setHeader ( )
+1. text / html
